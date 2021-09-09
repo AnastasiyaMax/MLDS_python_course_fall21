@@ -5,6 +5,7 @@
 ## Занятия
 
 * [__семинар 1__](https://github.com/AnastasiyaMax/ML-HLS_python_course_fall21/blob/main/class_1/sem01_intro21.ipynb), 02.09.21 – Python как калькулятор, основные типы и структуры данных
+* [__семинар 2__](https://github.com/AnastasiyaMax/ML-HLS_python_course_fall21/blob/main/class_2/sem02_forif.ipynb), 09.09.21 – Условный оператор, циклы while и for
 
 ## Формы контроля 
 
