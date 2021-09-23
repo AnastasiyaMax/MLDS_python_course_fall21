@@ -11,7 +11,7 @@
 
 ## Задания
 
-* [Первая часть ДЗ-2](https://official.contest.yandex.ru/contest/29330/enter/). Дедлайн: 30 сентября, 23:00.
+* [Первая часть ДЗ-2](https://official.contest.yandex.ru/contest/29330/enter/). Дедлайн: 5 октября, 06:00.
 
 ## Формы контроля 
 
