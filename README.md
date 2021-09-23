@@ -7,7 +7,7 @@
 * [__семинар 1__](https://github.com/AnastasiyaMax/ML-HLS_python_course_fall21/blob/main/class_1/sem01_intro21.ipynb), 02.09.21 – Python как калькулятор, основные типы и структуры данных
 * [__семинар 2__](https://github.com/AnastasiyaMax/ML-HLS_python_course_fall21/blob/main/class_2/sem02_forif.ipynb), 09.09.21 – Условный оператор, циклы while и for
 * [__семинар 3__](https://github.com/AnastasiyaMax/ML-HLS_python_course_fall21/tree/main/class_3), 16.09.21 – Немного про итераторы и генераторы, чтение файлов и методы работы со строками 
-* [__семинар 4__](), 23.09.21 – Функции, рекурсия, напоминание о генераторах и декораторы :)
+* [__семинар 4__](https://github.com/AnastasiyaMax/ML-HLS_python_course_fall21/tree/main/class_4), 23.09.21 – Функции, рекурсия, напоминание о генераторах и декораторы :)
 
 ## Задания
 
