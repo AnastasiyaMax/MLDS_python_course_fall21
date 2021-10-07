@@ -15,6 +15,7 @@
 
 * [Первая часть ДЗ-2](https://official.contest.yandex.ru/contest/29330/enter/). Дедлайн: 5 октября, 06:00.
 * [Вторая часть ДЗ-2](https://official.contest.yandex.ru/contest/29761/enter/). Дедлайн: 14 октября, 23:50.
+* [Условия ДЗ-3 и ДЗ-4](https://docs.google.com/document/d/1M5YuxsDCs2PDy1E1L3lwFA6lW23gm0uTdLdXmCBzxTs/edit?usp=sharing). Дедлайн: 21 октября, 19:00
 
 ## Формы контроля 
 
