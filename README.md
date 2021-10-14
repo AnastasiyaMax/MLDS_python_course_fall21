@@ -10,6 +10,8 @@
 * [__семинар 4__](https://github.com/AnastasiyaMax/ML-HLS_python_course_fall21/tree/main/class_4), 23.09.21 – Функции, рекурсия, напоминание о генераторах и декораторы :)
 * [__семинар 5__](https://github.com/AnastasiyaMax/ML-HLS_python_course_fall21/blob/main/class_5/class_5_set_dict.ipynb), 30.09.21 – Заканчиваем обсуждение декораторов с прошлого раза, изучаем множества и словари
 * [__семинар 6__](https://github.com/AnastasiyaMax/ML-HLS_python_course_fall21/tree/main/class_6), 07.10.21 – Пишем бота-планировщика для телеграма :)
+* [__семинары 7-8__](https://github.com/AnastasiyaMax/ML-HLS_python_course_fall21/tree/main/class_7-8), 14.10.21 – Классы и основы ООП, введение в pandas и визуализацию данных
+* __семинар 9__, 21.10.21 – Защиты ДЗ 3 и 4 (бота).
 
 ## Задания
 
